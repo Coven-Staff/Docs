@@ -1,0 +1,159 @@
+**1. Préambule **
+
+Coven est une guilde PvE qui a pour objectif d'obtenir le CE en 2 soirs par semaine. Elle est majoritairement composée de joueurs ayant un ou plusieurs CE et souhaitant relever le défi d'en obtenir un en 2 soirs semaines.
+
+La guilde est gérée par le “Staff” : Milowenn(GM), Alkauf (DRH), Prism et Albadeus (RL) et le Staff temporaire (Staff Obs).  Nous avons également des responsables de groupe Cac (Ravnir, Amélio), Distant (Rivastation, Mage), Heal (Létizïa, Priest)
+
+Nous proposons 3 créneaux de raid par semaine dont un optionnel :
+
+Mercredi 20h45-23h30 (obligatoire)
+Jeudi 20h45-23h30 (obligatoire)
+Lundi 20h45-23h30 (optionnel)  uniquement en HM
+
+Notre guilde fonctionne en **full extend** sauf impossibilités techniques imposées par Blizzard.
+Le raid du lundi est destiné au mode héroïque dès que le mode mythique est disponible. Il est donc recommandé à nos membres d’être présents pendant la période de progression en héroïque.
+-------------------------------------------------------------------------------------------------------------------
+
+**2. Recrutement **
+
+Avant de proposer une candidature, nous vous invitons à consulter les classes que nous recherchons, elles sont indiquées sur WowProgress. Néanmoins, toutes les candidatures sont étudiées. Si vous avez envie de nous rejoindre et que vous pensez que votre profil en tant que joueur peut nous intéresser, n’hésitez pas à candidater.
+
+Après la lecture de cette charte, nous vous invitons à créer un ticket de recrutement sur notre Discord via nous-rejoindre avec quelques informations complémentaires qui sont indiquées à la création du ticket. A l’issue de quoi, un officier vous contactera pour réaliser un entretien oral. Il s’agit d’un échange pendant lequel nous vous laissons vous présenter et pendant lequel nous présenterons la guilde. 
+
+A la suite de cet entretien, nous vous proposerons de nous rejoindre pour une période de test. Pendant cette période, nous analyserons vos performances en raid, notamment en survivabilité et en suivi des instructions et des stratégies.
+Durant cette période vous serez donc jugé sur vos compétences IG mais également sur votre sens du relationnel avec les autres membres et sur votre maturité. Pour finir, vous serez bien sûr jugé sur le respect des règles de la charte.
+
+La durée de cette période est fixée à 6 raids en présentiel. Nous attendons une disponibilité de 100% sur les 2 soirs semaines pendant votre période d'essai. Au-delà de cette période, le maître de guilde ainsi que les officiers pourront, si nécessaire, rolonger la durée de cette période afin d’être en mesure de prendre une décision sur votre avenir au sein de la guilde. 
+
+La durée de votre candidature dépendra des critères suivants : prestation en raid, expérience, progression, motivation, disponibilité et capacité de remise en question.
+-------------------------------------------------------------------------------------------------------------------
+
+**3. Règles de la guilde**
+---
+**3.1 Règles générales **
+- Vous vous engagez à représenter la guilde dès le moment où vous intégrez ;
+- En tant que membre de la structure vous devez avoir une attitude irréprochable envers les joueurs externes à la guilde, ceci est un point crucial, n’oubliez jamais qu’un joueur lambda aura tendance à associer le comportement d’un joueur à sa guilde.
+- Le respect dans la guilde devra être de rigueur avec chaque membre que ce soit avec un autre membre ou un officier.
+- Lorsque vous ne comprenez pas une décision, ou en cas de problème avec un autre joueur, nous vous demandons de régler cela en privé avec la ou les personnes concernées, en dehors des périodes de raid, avec si la situation l’exige, les officiers. Le canal de guilde ne doit en aucun cas être le théâtre de règlements de compte et plaintes qui peuvent nuire à l’ambiance général de la guilde.
+- Vous vous engagez à réserver un accueil chaleureux aux nouveaux membres de la guilde afin de faciliter leur intégration, n’hésitez pas à faire le premier pas et proposer toutes sortes d’activités intra-guilde.
+- Une implication personnelle dans la guilde vous sera demandée, une optimisation correcte est attendue. Personne ne sera derrière vous pour vous pousser à faire quelque chose qui serait utile à la guilde, c’est à vous d’effectuer les recherches nécessaires pour convenir aux besoins de la guilde, n’hésitez pas cependant à vous entraidez entre membres ou demander de l’aide pour permettre à la guilde d’avancer efficacement.
+- Vous êtes responsable de votre propre avancée. L’entraide est très appréciée et recommandée mais non obligatoire (l’abus n’est pas toléré).
+- Consulter régulièrement le discord de la guilde est obligatoire pour être au courant de la vie de la guilde. Émettre des idées pour un boss en vous appuyant sur différentes vidéos et/ou post, signaler une astuce ou un changement de consigne justifié est apprécié.
+
+- Vous êtes considéré comme tout le temps présent pour les raids sauf absences indiquées dans le channel Discord #🗓-absences . Nous n'utilisons pas de calendrier.
+**- (New) Lors des raids, nous fournissons les potions de puissance élémentaire r3. Vous devez fournir 20 potions de puissance élémentaire r2 par semaine.**
+- Il est obligatoire de venir en raid avec l’ensemble des composants : nourriture, flacon, renfort d’armure, rune, potions de soin, potions de combat/mana. Ils sont obligatoires sur tous les combats dès les premiers trys.
+- Nous attendons de nos membres Roster une disponibilité de 80% sur l'ensemble des raids minimum sur une période de 5 semaines glissante. Si cela n'est pas le cas, vous passez automatiquement en grade "Backup". Vous retournez en grade Roster dès que votre disponibilité est supérieure à 80%. Le 3ème passage en grade "Backup" est définitif pour le palier en cours.
+- Il est obligatoire de venir en raid en connaissant la stratégie du ou des boss cibles. Pour cela, chaque membre doit avoir au préalable consulter la stratégie disponible sur Discord, disposer des weakauras obligatoires et avoir vu un PoV de sa classe. Il n'y a pas de rappel de stratégies.
+
+---
+**3.2 Absences **
+Les absences devront toujours être signalées, dans le cas d’un imprévu de dernière minute, sur le discord de la guilde dans le canal de discussion prévu à cet effet. Dans le cas de longues périodes de vacances ou absences (+ de 1 semaine), il faudra, en plus, prévenir un officier des dates.
+
+Chaque semaine est calculée la disponibilité de nos joueurs. Il s’agit d’un taux de présence en raid ou sur le banc par rapport à vos absences. Nous demandons à chacun d’être en raid ou sur le banc au moins 4 raids sur 5 (80%). C'est un prérequis pour être Roster.
+
+---
+**3.3 Grades de guilde **
+Nous avons plusieurs grades dans la guilde :
+* Amis : amis d’un roster, vétéran ou staff ;
+* Apply : candidat à une place de “roster” ;
+* Backup : membre du roster n'ayant pas le taux de disponibilité suffisant ou ayant une note insuffisante.
+* Roster : membre du roster de raid ;
+* Staff Obs : “roster” ayant également le rôle temporaire (2 semaines) d'officier(*) ;
+* Staff : “roster” ayant également un rôle d'officier.
+Les rerolls sont dans des grades équivalents. Il est à noter que certains de nos joueurs disposent d’alt “officiel” qui sont utilisés notamment pour certains combats qui nécessitent des compositions particulières. La liste est disponible sur Discord. Ils disposent des mêmes droits et devoirs en raid qu’un main.
+
+(*) C'est un rôle optionnel qui tourne toutes les 2 semaines entre les joueurs qui sont volontaires. Il donne les mêmes droits que le rôle Staff, exception faite de l'accès au /o. Il est basé sur le volontariat et doit être demandé.
+
+---
+**3.4 Sanctions **
+Dans le cas d’absences de dernière minute répétées, retards incessants, de non convenance sur la durée ou tout simplement de non-respect des consignes citées plus haut, un rappel à l’ordre et des sanctions seront prises parmi celles-ci :
+* Rétrogradation en Apply (ex: indisponibilité tardive qui impose un raidoff, disponibilité inférieur à 80% (on reste indulgent quand ça ne pénalise pas le raid), performances en raid très en deçà du raid) 
+* Mute sur Discord durant une période donnée (ex: spam en raid en vocal, etc.)
+* Privation de butin (ex: recherche du parse avant la strat, insubordination vis à vis des strats imposées par le RL)
+* Exclusion de la guilde (ex: toxicité, insultes envers un autre joueur, *gossip* amenant une situation de discrimination quelconque)
+
+---
+**3.5 Réunions milieu et de fin de palier**
+Nous essayons de nous réunir deux fois par palier : une première fois à la moitié du raid, une seconde fois juste avant la publication d’un nouveau patch majeur.
+Durant ces réunions, nous discutons de ce qui peut être améliorer, de nos objectifs de recrutements, de la présente charte et de tout autre sujet qu’un membre de notre communauté souhaite aborder.
+
+**3.6 Note de joueur**
+
+A l'issue de chaque raid, le Staff se réunit pour discuter de la performance du raid. Nous utilisons une "note" de joueur qui correspond à trois états : joueur idéal, joueur en difficulté, joueur frein. 
+- Une mauvaise soirée vous met dans l'état "joueur en difficulté". Un ticket Discord est créée en privée et on discute avec vous de ce qui ne vas pas.
+- Une bonne soirée vous maintient dans l'état "joueur idéal". Si vous étiez en difficulté, au bout de 2 bonnes soirées vous retournez en "joueur idéal".
+- Une seconde mauvaise soirée en cas d'état "joueur en difficulté" vous place en "joueur frein". Vous n'êtes plus prioritaire en raid, on communique avec vous sur le ticket Discord et on attends de vous que vous montriez de la motivation pour repasser "joueur en difficulté". On vous demandera 3 bonnes soirées pour repasser "joueur idéal".
+- Le 4ème passage "joueur en difficulté" vous donne le grade "Backup" pour la fin du palier et enclenche un recrutement.
+
+L'ensemble des paramètres qui nous permet d'avoir une "note" de joueur et définie en interne, dans un channel discord disponible au Roster/Apply et Backup.
+
+-------------------------------------------------------------------------------------------------------------------
+**4. Les Raids**
+---
+**4.1 Compo de raid **
+
+Il n'y a pas de calendrier, vous devez poster vos absences sur #🗓-absences .
+
+La composition sera publiée par les officiers le lundi soir au plus tard. 2 joueurs restent en backup et sont libérés vers 21h30.
+
+---
+**4.2 Horaires et Groupage **
+Nous raidons de 20h45 à 23h30.
+Le groupage se fait à 20h45 et le pull des trashs dès que nous sommes assez dans le raid.
+Si vous n’êtes pas dans le groupe à 20h55, vous êtes considéré en retard.
+
+---
+**4.3 Add-ons obligatoires **
+Les quatre addons suivants sont obligatoires en raid :
+
+DBM ou BigWigs 
+Method Raid Tools 
+WeakAuras
+RCLootCouncil
+
+---
+**4.4 Discord **
+Il est obligatoire de l’utiliser et de respecter les règles suivantes :
+
+Vous devez être dans le canal raid avant 21h00 les soirs de raid.
+Il est conseillé d’aller dans les canaux respectifs à vos activités actuelles.
+**Il est interdit de parler intempestivement pendant les combats, ni de discuter de stratégie en vocal pendant la soirée de raid sauf si le RL vous l'a demandé explicitement. Nous privilégions de discuter par écrit avant de discuter à l'oral.**
+Il est formellement interdit de faire preuve de toxicité ou de dire des remarques désobligeantes et non constructives, voire discriminatoires en raid. Tout manquement à cette règle amène irrévocablement à votre bannissement.
+
+-------------------------------------------------------------------------------------------------------------------
+**5. Règles du butin **
+---
+**5.1 BiS List **
+
+Nous proposons à nos membres de lister leur BiS sur WarcraftRoster. Cette liste est utilisée pour l’attribution du butin.
+
+---
+**5.2 Attribution du butin & Trash loots **
+
+**L'ensemble du roster doit passer sur l'ensemble des loots, ceux-ci sont attribués via rcloot.**
+
+Les joueurs pouvant l’équiper doivent choisir de voter s’ils en ont besoin ou non à travers différents choix (BiS, Upgrade etc…) sur rcloot, ensuite la team officier attribue le butin suivant les critères suivants :
+
+- L'objet est attribué parmi la liste des joueurs qui ont mis BiS. Si l'objet est attribué à un joueur, celui-ci ne pourra plus être prioritaire (BiS) sur une même pièce, sur le même niveau de difficulté y compris en pièce de set. 
+- Si personne ne met BiS ou un un joueur ayant mis BiS dispose déjà d'un objet de la même difficulté du raid au même emplacement, il est attribué aux joueurs ayant mis Upgrade
+- Sinon, il est attribué en second spec
+- Les autres cas sont gérés à la discrétion du Staff, suivant les seconds spé etc.
+
+Une fois attribué, l’add-on vous dira à qui échanger votre butin, ou il vous dira de le garder s’il vous est attribué. 
+Concernant les trash loots : L'ensemble des trash loots issues des soirs de raids en guilde sont destinés à la banque de guilde ou au raid si il s'agit d'un BiS.
+
+Tout manquement à ces règles peut amener aux sanctions précédemment définies.
+
+-------------------------------------------------------------------------------------------------------------------
+**6. Officiers **
+Les officiers décident de l’orientation de la guilde et œuvrent dans son intérêt. Ils doivent faire appliquer les règles de la Charte de Guilde, quelles que soient les affinités avec les différents membres.
+Les officiers décident de l’attribution « finale » du butin en raid PVE, ce choix sera définitif et ne devra en aucun cas être remis en cause par les membres.
+Les officiers peuvent vous apporter toutes explications, ou tous renseignements que vous souhaiteriez obtenir sur la guilde.
+Toute justification (attributions/choix) pourra être demandée et vous être donnée en privé et ce en dehors des raids.
+L’écoute des instructions des officiers et l’application de celles-ci sont obligatoires.
+Si vous souhaitez devenir officier et que vous pensez pouvoir nous aider, n’hésitez pas à nous en parler.
+
+N’oubliez pas que les officiers sont des joueurs comme vous. Ils ont simplement accepté d’avoir plus de responsabilités à assumer, il n’est donc pas nécessaire de s’acharner sur les règles définies et les décisions prises pour la guilde.
+
+Le dialogue est toujours privilégié dans la guilde. Si vous avez une remarque ou une suggestion, vous pouvez contacter les officiers notamment via les tickets Discord pour en parler.
